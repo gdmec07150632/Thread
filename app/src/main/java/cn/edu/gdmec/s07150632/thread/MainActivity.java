@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
                         e.printStackTrace();
                     }
                 }
-                System.out.println(name+"完成");
+                System.out.println(name+"完 成");
             }
         }
         Timer timer1 = new Timer();
